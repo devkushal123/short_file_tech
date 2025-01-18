@@ -1,0 +1,100 @@
+THECODESKOOL
+
+all js details step by step  => https://javascript.info/
+U should know - 
+             1. Data structures
+             2. Algorithms
+             3. Design Patterns
+             4. Automated Testing
+             5. Architecture
+
+questions  - 
+         nodejs
+         react.js
+          npm vs npx
+         webpack
+         sharding db
+         graph db
+          databases - mysql , mongodb
+         npm vs yarn vs pnpm
+
+Coding Sharpers - 
+	1. Geeksofgeeks
+	2. Hackerearth
+	3. HackerRank
+
+ 
+
+
+From Monday - April 26, 2021
+Prepare for coding - 
+
+1. Start From Geeksforgeeks - https://practice.geeksforgeeks.org/topic-tags/?ref=home
+     => Atleast complete one question in a day but target should be 5 questions daily.
+
+2. Learn Nodejs and ReactJs parallel
+     => After Completing React.js summary course.
+     => Read 10 questions for react.js and 10 for nodejs daily.
+
+
+
+How to refuse to join company- 
+hi Hr, 
+I really appriciate the time u spent meeting with me to discuss this position it was difficult decision but my current company has retain me.
+I would again like to express my gratitude for the offer, my regret that it didn't work out. But u have my best wishes in finding a suitable candidate for this position. 
+I will definitely come back in the future and hope we will work together in the future as well.
+thank you.
+
+
+
+
+MERN stack course-
+    1. https://www.udemy.com/course/mern-stack-front-to-back/                                        - 4.6 Star - (12779 ratings) - 48828 students - 12 hours - project (dev connector- profile or portfolio)
+    2. https://www.udemy.com/course/the-complete-mern-stack-authentication-with-source-code/         - 4.4 star - (25 ratings)    - 9144 students  - 2.5 hours - (protfplio website , fb homepage, landing page design, user authentication, covid stats, resturant application, connect wid node) - complete
+    3. https://www.udemy.com/course/the-complete-react-redux-node-express-mysql-developer-course/    - 3.3 star - (135 ratings)   - 50419 students - 8 hours - project ()
+
+React Course- 
+            https://www.udemy.com/course/react-js-basics-to-advanced/   - 4.2 star (838 ratings) - 103697 students - 3.5 hours
+
+Video by Youtube for MERN - 
+			part-1st - https://www.youtube.com/watch?v=ngc9gnGgUdA  - MERN - Memories app.
+                        part-2nd - https://www.youtube.com/watch?v=aibtHnbeuio
+Nodejs Crash Course -   
+			https://www.youtube.com/watch?v=2LUdnb-mls0
+
+Attendence -
+   	April-29-2021 - starting geekofgeeks => DS => Arrays => completed 4 questions
+	LinkedList = Start from tomo - 24-may
+		1. 12 easy wale rah gaye
+                2. 3- hard
+		3. 9-medium
+	
+
+How to learn from Geeforgeeks - https://www.geeksforgeeks.org/data-structures/?ref=shm
+	Data Structure-   Need to complete every topic in DS  
+		1. Start with topic wise. DS => Array
+                2. Learn basic and topics given in array. https://www.geeksforgeeks.org/array-data-structure/?ref=ghm
+                3. Then start topic wise practice  - https://practice.geeksforgeeks.org/topic-tags/?ref=shm 
+                4. For single topic, Need to complete 60 questions like - array-50, linklist-50
+                5. Try to solve problem with difficulty level (easy, medium n hard).
+		6. Complete 20 questions easy.
+		7. 20 question medium.
+                8. 10 question hard
+
+      Algorithm - same as above
+ 		1. Dynamic programming me 150
+                2. all other topics 30 questions.
+
+    After that look for company interview experience question - 
+             1. do it before 1 week of interview for any good company.
+              2. atleast 50 question u need to read 
+    Last puzzles - 
+           try that also if u get time.
+    
+    C++(oops) - from GFG.- https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm
+    OS - 
+    DBMS
+    Quiz-https://www.geeksforgeeks.org/quiz-corner-gq/#Data%20Structures%20Mock%20Tests
+     appti
+
+

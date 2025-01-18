@@ -1,0 +1,25 @@
+List of items needs to start - 
+
+1. Every weekend plans - Some new tech/topic throughly/youtube.
+2. HTML/CSS/JS - 1 week
+
+3. React.js - 10 weeks - https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+
+4. some projects react.js.
+5. some project nodejs+reactjs
+6. DSA udemy - https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
+
+7. DSA 450 questions.
+
+1. Daily news paper reading. 
+2. English 
+
+
+https://www.udemy.com/course/modern-javascript-es6-for-react-js/
+https://www.udemy.com/course/scrum-genman/
+https://www.udemy.com/course/devops-fundamentals-for-beginners/
+https://www.udemy.com/course/how-to-speak-without-notes/
+https://www.udemy.com/course/english-grammar-tenses-structures-the-ultimate-course/
+https://www.udemy.com/course/mern-stack-front-to-back/
+https://www.udemy.com/course/the-python-mega-course/
+https://www.udemy.com/course/sql-programming-and-mysql-developer-training/

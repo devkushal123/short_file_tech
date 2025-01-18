@@ -1,0 +1,38 @@
+
+	1. Request Promise module 
+	2. Promise all, map, props
+	3. lodash library functions
+	4. flow of express middleware
+	5. jwt module
+	6. promise, async and await
+
+ 
+
+by mosh
+	nodejs 
+		https://www.youtube.com/playlist?list=PLTjRvDozrdlydy3uUBWZlLUTNpJSGGCEm
+
+	js
+		https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax
+
+By Traverse media
+	nodejs
+		https://www.youtube.com/playlist?list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu
+	mern 
+		https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
+	Nodejs app with sequalize
+		https://www.youtube.com/playlist?list=PLillGF-RfqbZyLc9sMQ72_u3FW9fVxo1p
+	nodejs api
+		https://www.youtube.com/playlist?list=PLillGF-RfqbbFSFYR_yJfDcdq6It6OqdO
+
+
+https://stackoverflow.com/questions/28440170/get-docx-file-contents-using-javascript-jquery
+
+
+1) Install admin lte via npm using
+npm install admin-lte
+
+2) Add this path in index.js or server.js
+app.use('/admin', express.static('./node_modules/admin-lte'));
+
+CID: C8754136

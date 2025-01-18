@@ -1,0 +1,7 @@
+A.One way is to setup LAN wire directly.
+B. Second way - setup LAN wire with some configuration-
+  1. open cmd and type ipconfig => at the end type  Default Gateway 192.168.29.1
+2. Then go to ur second router 
+3. DHCP server ko off krna h
+3. Lan ip me 192.168.29.2 krna h in place of 2 try 3, or 4
+4. find WDS in router = advance => bridging

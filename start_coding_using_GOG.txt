@@ -1,0 +1,10 @@
+How to learn from https://www.geeksforgeeks.org/ ? 
+
+Step 1st - Go to Data structures and start with Array
+	https://www.geeksforgeeks.org/array-data-structure/
+
+Start with introduction and follow each topic and do/practice only 5 random questions for each topic.
+
+2nd - complete each section of Data structure with above approach for each topic.
+
+
